@@ -1,0 +1,9 @@
+{
+	"name": "ptgDemoADF2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "183dd672-51b4-43a5-b127-9098a445f12f",
+		"tenantId": "31386ae4-e5c5-4956-80b9-3868597721b3"
+	}
+}
